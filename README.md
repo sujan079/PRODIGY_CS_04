@@ -16,8 +16,8 @@ Usage:
 1. Install the required library:
    ```bash
    pip install pynput
-2.To Run it simple run the Python program 
-3.And to stop it you have to stop it directly
+ 2.To Run it simple run the Python program 
+ 3.And to stop it you have to stop it directly
 
 Configuration:
 
